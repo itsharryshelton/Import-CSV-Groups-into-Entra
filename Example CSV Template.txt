@@ -1,0 +1,3 @@
+Name;Owner;Description;Members
+Group A;admin@email.co.uk;Description A;user4@email.co.uk,user6@mail.uk
+Group B;admin@email.co.uk;Description B;user1@email.co.uk,user2@email.com
